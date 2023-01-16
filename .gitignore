@@ -1,0 +1,6 @@
+.obsidian/cache
+.trash/
+.DS_Store
+
+**/*.pptx
+Powerpoints/
