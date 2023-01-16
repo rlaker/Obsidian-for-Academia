@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "84fce02934d5cfbe",
+        "id": "f5f27ff8cf9dcecb",
         "type": "tabs",
         "children": [
           {
-            "id": "305f65cde3898d41",
+            "id": "4dae5b105b53a8b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4751bdea722cc8bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-01-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,6 +67,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "e7ef4010732bc187",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c66f0e8befabd07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,16 +144,6 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "1c66f0e8befabd07",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Obsidian.md"
-              }
-            }
           }
         ]
       },
@@ -184,11 +178,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5afc2f360873b082",
+  "active": "4dae5b105b53a8b4",
   "lastOpenFiles": [
+    "Obsidian.md",
     "Daily Notes/2023-01-16.md",
     "Templater.md",
-    "Obsidian.md",
     "Tasks.md",
     "Obsidian git.md",
     "Natural Language Dates.md",

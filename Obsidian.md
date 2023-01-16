@@ -95,7 +95,7 @@ Can also be useful in a conference to keep track of who someone is and what they
 This setup took me quite a while to make, and involved a deep dive in the rabbit hole. [[Obsidian]] is always changing and there are so many plugins its hard to keep up.
 
 > [!info] 
-> Try out this setup and tweak it to suit you. Try the settings for each plugin first, or go on the obsidian forums
+> Try out this setup and tweak it to suit you. Usually these changes can be made in the settings for each plugin, or go on the obsidian forums
 
 > [!info] 
 > If you think of a good idea, someone has probably made a plugin for it
