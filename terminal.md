@@ -1,0 +1,1 @@
+I will recommend using [Git-bash for windows](https://gitforwindows.org/), but use any terminal you want.
