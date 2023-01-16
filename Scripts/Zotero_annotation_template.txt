@@ -1,0 +1,11 @@
+{{if color == '#2ea8e5'}}
+	<p>> [!summary] <br>> {{highlight}}</br></p><p>{{comment}}</p>
+{{elseif color == '#ff6666'}}
+	<p>> [!error] Unsure <br>> {{highlight}}</br></p><p>{{comment}}</p>
+{{elseif color == '#5fb236'}}
+	<p>> [!success] <br>> {{highlight}}</br></p><p>{{comment}}</p>
+{{elseif color == '#a28ae5'}}
+	<p>> [!important] <br>> {{highlight}}</br></p><p>{{comment}}</p>
+{{else}}
+	<p>> {{highlight}}</p><p>{{comment}}</p>
+{{endif}}

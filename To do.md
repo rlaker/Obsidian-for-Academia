@@ -4,7 +4,8 @@
 - [ ] set up git hook for file size
 - [ ] theme!
 - [ ] write tutorial for [[zotero]]
-- [ ] write tutorial for [[obsidian]] - start with the basic ideas
+	- change the template
+- [ ] write tutorial for [[Obsidian]] - start with the basic ideas
 	- [ ] People bang on about [[Zettelkasten]] but only do that if you want to
 - [ ] make a fancy graph
 - [ ] make a tutorial for [[git]]

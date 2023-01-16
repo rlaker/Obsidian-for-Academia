@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "Literature Notes",
+  "literatureNoteContentTemplate": "---\nTitle: {{title}}\nType: {{entry.type}}\nCitekey: {{entry.id}}\n<% tp.user.paper_yaml(\"{{entry.type}}\", \"{{authorString}}\",  \"{{year}}\", \"{{DOI}}\") %> \n---\n\n[Zotero]({{zoteroSelectURI}}) <% tp.user.doi_or_url('{{DOI}}' , '{{URL}}') %> \n\n Topics:: \n\n# {{title}}\n\n## Notes\n\n{{note}}\n\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]({{zoteroSelectURI}})",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "library.bib"
+}
