@@ -1,4 +1,4 @@
-How I get citations from [[zotero]]. There is another plugin, but this one is simpler as it just looks for a library.bib file.
+How I get citations from [[Zotero]]. There is another plugin, but this one is simpler as it just looks for a library.bib file.
 
 Again, this is made easier by using a template in the [[Citations]] settings.
 
@@ -11,6 +11,6 @@ Turns out I made some scripts to help link the doi or url.
 
 Oh, how did this citation get here... [[@Laker2021a]]
 
-As you can see, there are links to take you directly to the paper or its entry in [[zotero]]
+As you can see, there are links to take you directly to the paper or its entry in [[Zotero]]
 
 ![[@Laker2021a]]

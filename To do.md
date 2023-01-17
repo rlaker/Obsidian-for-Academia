@@ -3,7 +3,7 @@
 - [ ] set up templates
 - [ ] set up git hook for file size
 - [ ] theme!
-- [ ] write tutorial for [[zotero]]
+- [ ] write tutorial for [[Zotero]]
 	- change the template
 - [ ] write tutorial for [[Obsidian]] - start with the basic ideas
 	- [ ] People bang on about [[Zettelkasten]] but only do that if you want to
