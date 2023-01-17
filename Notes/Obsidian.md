@@ -1,10 +1,10 @@
 > [!success] 
 >  Yay, you installed Obsidian. For a nice guide, look at the [documentation](https://help.obsidian.md/Obsidian/Index)
 
-[[Obsidian]] is a note taking app, where essentially you are just editing text files with a few extra bells and whistles. This is a different approach to some apps like [[Notion]], where everything is online and you don't actually have your own data locally. Therefore, if you plan to make a note taking for a long time you don't want to rely on a company to store your data.
+[[Obsidian]] is a note taking app, where essentially you are just editing text files with a few extra bells and whistles. This is a different approach to some apps like [[Notion]], where everything is online and you don't actually have your own data locally. Therefore, if you plan to take notes for a long time you don't really want to rely on a company to store your data.
 
 > [!important] 
-> If the company behind [[Obsidian]] ever went down then you would still just have all your notes on your computer
+> If the company behind [[Obsidian]] ever went down then you would still just have all your notes on your computer. They are just text files so could be imported into a new app
 
 > [!tip] 
 > There is another similar app called [[logseq]], which actually has a really nice [guide](https://docs.logseq.com/#/page/start%20here) to why this type of note taking may be better for you
