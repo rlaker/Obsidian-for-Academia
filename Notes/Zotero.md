@@ -27,4 +27,4 @@ These are the plugins I use:
 
 There are many more [add ons](https://www.zotero.org/support/plugins) if you want to experiment
 
-For example, I just found this [plugin](https://github.com/windingwind/zotero-better-notes) that looks really useful for note taking in [[Obsidian]]
+For example, I just found this [plugin](https://github.com/windingwind/zotero-better-notes) that looks useful for note taking in [[Obsidian]]

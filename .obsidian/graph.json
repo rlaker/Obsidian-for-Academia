@@ -20,6 +20,27 @@
         "a": 1,
         "rgb": 5431401
       }
+    },
+    {
+      "query": "file:Obsidian",
+      "color": {
+        "a": 1,
+        "rgb": 8528610
+      }
+    },
+    {
+      "query": "file:Zotero",
+      "color": {
+        "a": 1,
+        "rgb": 15479346
+      }
+    },
+    {
+      "query": "file:git",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": true,

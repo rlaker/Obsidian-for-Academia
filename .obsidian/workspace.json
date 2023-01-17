@@ -11,15 +11,20 @@
             "id": "4dae5b105b53a8b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zotero.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6ca0fd66a1d5982",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zotero.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -110,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zotero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,17 +178,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4dae5b105b53a8b4",
+  "active": "e6ca0fd66a1d5982",
   "lastOpenFiles": [
-    "Zotero - MarkDB.md",
-    "Zotero.md",
-    "Zotero citation counts manager.md",
-    "Zotero - Zotfile.md",
-    "Mendeley.md",
-    "Zotero browser extension.md",
-    "Obsidian.md",
-    "Zotero - Better Bibtex.md",
-    "Latex suite.md",
-    "Citations.md"
+    "Python - environment.md",
+    "Obsidian git plugin.md",
+    "git hooks.md",
+    "GitHub.md",
+    "Github repo.md",
+    "Jupyter notebooks.md",
+    "git history.md",
+    "Python.md",
+    "Github authentication.md",
+    "git revert.md"
   ]
 }
