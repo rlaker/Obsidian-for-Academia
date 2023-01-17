@@ -1,4 +1,9 @@
+
 How I get citations from [[Zotero]]. There is another plugin, but this one is simpler as it just looks for a library.bib file.
+
+How I get citations from [[zotero]]. There is another plugin, but this one is simpler as it just looks for a library.bib file. 
+
+> How you update this .bib file will be covered in [[Zotero - Better Bitex]].
 
 Again, this is made easier by using a template in the [[Citations]] settings.
 
