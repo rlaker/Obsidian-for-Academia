@@ -11,8 +11,12 @@
             "id": "4dae5b105b53a8b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -23,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -36,6 +39,7 @@
       {
         "id": "b241ff115a63b713",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "0f63e8213055359e",
@@ -75,13 +79,94 @@
       {
         "id": "e7ef4010732bc187",
         "type": "tabs",
+        "dimension": 25.624999999999996,
         "children": [
           {
             "id": "1c66f0e8befabd07",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Obsidian.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7e92b9368f3b414d",
+        "type": "tabs",
+        "dimension": 41.041666666666664,
+        "children": [
+          {
+            "id": "5f0862f231252263",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Obsidian.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "file:Zotero",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:\"Literature Notes\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7935
+                      }
+                    },
+                    {
+                      "query": "path:\"Daily Notes\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65331
+                      }
+                    },
+                    {
+                      "query": "file:Obsidian",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8012793
+                      }
+                    },
+                    {
+                      "query": "file:git",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9326909723638723,
+                  "close": true
+                }
+              }
             }
           }
         ]
@@ -97,7 +182,7 @@
       {
         "id": "c6c1183ca984b91b",
         "type": "tabs",
-        "dimension": 31.666666666666664,
+        "dimension": 36.875,
         "children": [
           {
             "id": "3c3fe03fd6ea45fb",
@@ -113,6 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +237,7 @@
       {
         "id": "2ccc0e4580e7f891",
         "type": "tabs",
-        "dimension": 68.33333333333333,
+        "dimension": 63.125,
         "children": [
           {
             "id": "aca1843363659eb9",
@@ -178,8 +265,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e6ca0fd66a1d5982",
+  "active": "4dae5b105b53a8b4",
   "lastOpenFiles": [
+    "Notes/Obsidian.md",
     "Python - environment.md",
     "Obsidian git plugin.md",
     "git hooks.md",
@@ -188,7 +276,6 @@
     "Jupyter notebooks.md",
     "git history.md",
     "Python.md",
-    "Github authentication.md",
-    "git revert.md"
+    "Github authentication.md"
   ]
 }
