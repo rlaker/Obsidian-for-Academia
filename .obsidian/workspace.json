@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e7ef4010732bc187",
@@ -174,21 +173,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
   "active": "4dae5b105b53a8b4",
   "lastOpenFiles": [
+    "Obsidian - wiki link.md",
     "Obsidian.md",
-    "Daily Notes/2023-01-16.md",
-    "Templater.md",
-    "Tasks.md",
+    "Obsidian - Plugins.md",
+    "Obsidian - tags.md",
+    "Obsidian - useful shortcuts.md",
+    "Obsidian - wiki links.md",
+    "Obsidian - Syntax.md",
+    "git.md",
     "Obsidian git.md",
-    "Natural Language Dates.md",
-    "Media extended.md",
-    "Latex suite.md",
-    "Excalidraw.md",
-    "Excalidraw/Drawing 2023-01-16 21.35.46.excalidraw.md"
+    "Daily Notes/2023-01-16.md"
   ]
 }
