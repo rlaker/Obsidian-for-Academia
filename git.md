@@ -1,5 +1,5 @@
 > [!info] 
-> I went to the Imperial grad school course so you don't have to. Here is a link to the [tutorial](https://imperialcollegelondon.github.io/grad_school_git_course/)
+> [[git]] is source control software so you don't have to make a Thesis_v2_final_final.pdf every again
 
 Start git in a folder by typing 
 ```bash
