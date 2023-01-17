@@ -173,20 +173,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "4dae5b105b53a8b4",
   "lastOpenFiles": [
+    "Zotero - MarkDB.md",
+    "Zotero.md",
+    "Zotero citation counts manager.md",
+    "Zotero - Zotfile.md",
+    "Mendeley.md",
+    "Zotero browser extension.md",
     "Obsidian.md",
-    "git.md",
-    "Obsidian git.md",
-    "Obsidian - Plugins.md",
-    "Obsidian - wiki link.md",
-    "Obsidian - tags.md",
-    "Obsidian - useful shortcuts.md",
-    "Obsidian - wiki links.md",
-    "Obsidian - Syntax.md",
-    "Daily Notes/2023-01-16.md"
+    "Zotero - Better Bibtex.md",
+    "Latex suite.md",
+    "Citations.md"
   ]
 }

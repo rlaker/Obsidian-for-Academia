@@ -1,5 +1,5 @@
 > [!success] 
->  Yay, you installed Obsidian
+>  Yay, you installed Obsidian. For a nice guide, look at the [documentation](https://help.obsidian.md/Obsidian/Index)
 
 [[Obsidian]] is a note taking app, where essentially you are just editing text files with a few extra bells and whistles. This is a different approach to some apps like [[Notion]], where everything is online and you don't actually have your own data locally. Therefore, if you plan to make a [[second brain]] (or just note take) then you don't want to rely on a company to store your data.
 
