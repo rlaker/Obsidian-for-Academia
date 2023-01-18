@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f5f27ff8cf9dcecb",
+        "id": "fe32ab1cb03c59b5",
         "type": "tabs",
         "children": [
           {
-            "id": "4dae5b105b53a8b4",
+            "id": "4375add8fd2beee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Obsidian.md",
+                "file": "Notes/Citations.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "e6ca0fd66a1d5982",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -39,7 +31,7 @@
       {
         "id": "b241ff115a63b713",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "0f63e8213055359e",
@@ -79,7 +71,7 @@
       {
         "id": "e7ef4010732bc187",
         "type": "tabs",
-        "dimension": 25.624999999999996,
+        "dimension": 25.625,
         "children": [
           {
             "id": "1c66f0e8befabd07",
@@ -87,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Obsidian.md"
+                "file": "Notes/Citations.md"
               }
             }
           }
@@ -96,7 +88,7 @@
       {
         "id": "7e92b9368f3b414d",
         "type": "tabs",
-        "dimension": 41.041666666666664,
+        "dimension": 41.04166666666666,
         "children": [
           {
             "id": "5f0862f231252263",
@@ -104,11 +96,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Obsidian.md",
+                "file": "Notes/Citations.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -163,7 +155,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9326909723638723,
+                  "scale": 0.24141647795347634,
                   "close": true
                 }
               }
@@ -182,7 +174,7 @@
       {
         "id": "c6c1183ca984b91b",
         "type": "tabs",
-        "dimension": 36.875,
+        "dimension": 40.67307692307692,
         "children": [
           {
             "id": "3c3fe03fd6ea45fb",
@@ -198,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Obsidian.md",
+                "file": "Notes/Citations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Obsidian.md",
+                "file": "Notes/Citations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +229,7 @@
       {
         "id": "2ccc0e4580e7f891",
         "type": "tabs",
-        "dimension": 63.125,
+        "dimension": 59.32692307692308,
         "children": [
           {
             "id": "aca1843363659eb9",
@@ -265,17 +257,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4dae5b105b53a8b4",
+  "active": "4375add8fd2beee6",
   "lastOpenFiles": [
-    "Notes/Obsidian.md",
-    "Python - environment.md",
-    "Obsidian git plugin.md",
-    "git hooks.md",
-    "GitHub.md",
-    "Github repo.md",
-    "Jupyter notebooks.md",
-    "git history.md",
-    "Python.md",
-    "Github authentication.md"
+    "Notes/Untitled.canvas",
+    "Literature Notes/@Laker2022.md",
+    "Notes/Citations.md",
+    "Notes/Zotero - Better Bibtex.md",
+    "Notes/Zotero.md",
+    "Notes/Zotero - Zotfile.md",
+    "Notes/Zotero browser extension.md",
+    "Templates/Daily.md",
+    "Daily Notes/2023-01-16.md",
+    "Notes/Obsidian.md"
   ]
 }

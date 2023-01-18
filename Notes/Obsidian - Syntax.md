@@ -15,3 +15,4 @@ To see the raw code go into "source mode". I usually keep it how it is in "live 
 You can add pictures by just pasting them in, this will automatically put the image in the attachments folder and link it here. If you want to clear unused images, then use the "clear unused images" command from [[Obsidian - command palette]].
 
 The most important feature that sets [[Obsidian]] apart is [[Obsidian - wiki link]].
+
