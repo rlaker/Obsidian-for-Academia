@@ -1,1 +1,6 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes"
+}

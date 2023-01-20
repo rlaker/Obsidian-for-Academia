@@ -1,11 +1,11 @@
 
-- [ ] set up git
-- [ ] set up templates
+- [x] set up git
+- [x] set up templates
 - [ ] set up git hook for file size
-- [ ] theme!
-- [ ] write tutorial for [[Zotero]]
+- [x] theme!
+- [x] write tutorial for [[Zotero]]
 	- change the template
-- [ ] write tutorial for [[Obsidian]] - start with the basic ideas
-	- [ ] People bang on about [[Zettelkasten]] but only do that if you want to
-- [ ] make a fancy graph
+- [x] write tutorial for [[Obsidian]] - start with the basic ideas
+	- [x] People bang on about [[Zettelkasten]] but only do that if you want to
+- [x] make a fancy graph
 - [ ] make a tutorial for [[git]]

@@ -14,7 +14,7 @@ I have included the plugins I use most frequently use, which are:
 - [[Citations]]
 - [[Clear unused images]]
 - [[Excalidraw]]
-- [[Latex suite]]
+- [[Quick Latex for Obsidian]]
 - [[Media extended]]
 - [[Natural Language Dates]]
 - [[Obsidian git]]

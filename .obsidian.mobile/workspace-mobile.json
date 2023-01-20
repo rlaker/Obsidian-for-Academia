@@ -18,6 +18,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f637de2b99ff460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Obsidian.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5da7bf3f1cf2fbff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e70852437754b5ba",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Obsidian.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
           }
         ]
       }
@@ -121,6 +176,17 @@
     ],
     "currentTab": 0
   },
-  "active": "929da6c9c5d89ee4",
-  "lastOpenFiles": []
+  "active": "4f637de2b99ff460",
+  "lastOpenFiles": [
+    "Notes/git.md",
+    "Notes/pull request.md",
+    "Notes/fork.md",
+    "Notes/merge conflict.md",
+    "Notes/terminal.md",
+    "Notes/Obsidian.md",
+    "Notes/Simon.md",
+    "Notes/To do.md",
+    "Notes/Zettelkasten.md",
+    "Notes/logseq.md"
+  ]
 }
