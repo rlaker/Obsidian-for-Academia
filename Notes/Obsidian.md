@@ -32,6 +32,6 @@ This setup took me quite a while to make, and involved a deep dive in the rabbit
 > [!info] 
 > Try out this setup and tweak it to suit you. Usually these changes can be made in the settings for each [[Obsidian - Plugins|plugin]], or go on the obsidian forums
 
-> [!info] 
+> [!tip] 
 > If you think of a good idea, someone has probably made a plugin for it
 
