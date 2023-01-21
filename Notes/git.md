@@ -41,7 +41,7 @@ Once the correct files are staged, we can [[commit]] them to the [[git history]]
 
 If you decide you don’t like the changes anymore, you can discard them which will put the files back to the most recent point in the [[git history]].
 
-If you prefer to do this graphically, the [[Obsidian git plugin]] should be on the right hand panel. 
+If you prefer to do this visually, the [[Obsidian git plugin]] should be on the right hand panel. 
 
 > [!warning] 
 > If you cannot see it then open [[Obsidian - command palette]] and type "open source control view"

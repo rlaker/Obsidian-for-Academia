@@ -15,6 +15,7 @@
               "state": {
                 "file": "Notes/Obsidian.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -23,17 +24,11 @@
             "id": "4f637de2b99ff460",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Obsidian.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5da7bf3f1cf2fbff",
@@ -176,17 +171,17 @@
     ],
     "currentTab": 0
   },
-  "active": "4f637de2b99ff460",
+  "active": "929da6c9c5d89ee4",
   "lastOpenFiles": [
+    "Notes/Obsidian.md",
+    "Notes/git reset.md",
+    "Notes/git revert.md",
+    "Notes/Github authentication.md",
     "Notes/git.md",
+    "Notes/git history.md",
     "Notes/pull request.md",
     "Notes/fork.md",
     "Notes/merge conflict.md",
-    "Notes/terminal.md",
-    "Notes/Obsidian.md",
-    "Notes/Simon.md",
-    "Notes/To do.md",
-    "Notes/Zettelkasten.md",
-    "Notes/logseq.md"
+    "Notes/terminal.md"
   ]
 }
