@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Obsidian.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -173,15 +173,15 @@
   },
   "active": "929da6c9c5d89ee4",
   "lastOpenFiles": [
+    "Notes/git history.md",
+    "Notes/HEAD.md",
     "Notes/Obsidian.md",
     "Notes/git reset.md",
     "Notes/git revert.md",
     "Notes/Github authentication.md",
     "Notes/git.md",
-    "Notes/git history.md",
     "Notes/pull request.md",
     "Notes/fork.md",
-    "Notes/merge conflict.md",
-    "Notes/terminal.md"
+    "Notes/merge conflict.md"
   ]
 }

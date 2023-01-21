@@ -12,3 +12,7 @@ You will see lots of very long random strings identifying each commit. To travel
 git checkout [commit id]
 ```
 
+Will look like this
+
+![[24B6DD5E-419C-4128-8AB9-FEDFF89CFD4B.png]]
+
