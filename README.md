@@ -1,7 +1,9 @@
 # Obsidian-for-Academia
 Demo vault to explain how to use Obsidian, git and Zotero
 
-The point of making the tutorial inside Obsidian is to show you how it works. Therefore, this vault comes with some plugins and templates pre-installed.
+The point of making the tutorial inside Obsidian is to **show**, rather than tell, you how it works. Therefore, this vault comes with some plugins and templates pre-installed.
+
+This hopefully gives you a good base to try out Obsidian and see if you like it.
 
 # Installation
 
