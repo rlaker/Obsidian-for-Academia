@@ -1,7 +1,9 @@
 > [!success] 
 >  Yay, you installed Obsidian. For a nice guide, look at the [documentation](https://help.obsidian.md/Obsidian/Index)
 
-In this Vault (fancy name for folder) I will cover how to use [[Obsidian]], [[Zotero]] and [[git]] in academia. I have included some custom templates I use as well as a few useful plugins.
+In this Vault (fancy name for folder) I will cover how to use [[Obsidian]], [[Zotero]] and [[git]] in academia. The point of doing this inside [[Obsidian]] is to **show** you how it works, meaning I have included some essential plugins and custom templates that I use regularly.
+
+Continue reading this note to learn more about [[Obsidian]]. Then I would suggest reading [[Using citations with Obsidian and Zotero]] which gives an overview, before actually installing [[Zotero]].
 
 # Philosophy
 

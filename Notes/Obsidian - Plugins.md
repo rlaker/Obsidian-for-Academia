@@ -11,7 +11,7 @@ At its simplest [[Obsidian]] is just note taking, but it can become more with pl
 
 I have included the plugins I use most frequently use, which are:
 - [[Calendar plugin]]
-- [[Citations]]
+- [[Obsidian - Citations]]
 - [[Clear unused images]]
 - [[Excalidraw]]
 - [[Quick Latex for Obsidian]]
