@@ -13,4 +13,11 @@ Inside Obsidian, "open folder as vault" which should open up the start page (Not
 
 > To allow third party plugins, you will need to go into settings and enable community plugins (Settings > Community plugins)
 
+# How it works
+
+Obsidian is a note taking app, where essentially you are just editing text files with a few extra bells and whistles. The **key** is that you can link notes together with simple wiki link (they look like [[this]]). This allows structure to form as you write down ideas, so you don't need to create a complex folder structure.
+
+By linking these ideas together, structure can naturally form that matches your way of thinking. You also get a cool graph like this:
+
+![image](https://user-images.githubusercontent.com/20686171/215801312-108d29fe-7b18-4ff3-b554-dce3c7a0876d.png)
 
